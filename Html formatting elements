@@ -1,0 +1,15 @@
+<html>
+<body>
+<P><b> Bold </b></p>
+<P><strong> strong text</strong></p>
+<h1><i>itallic</i></h1>
+<h1><em> emphasize text</em></h1>
+<P>mark is used to <mark>highlight</mark> the content</p>
+<P> <small> represents text in small size</small></p>
+<P>used to delete the <del>text</del></p>
+<P> my mother tongue is <del> telugu</del><ins> kannada</ins></p>
+<P>H<sub>2</sub>S0<sub>4</sub>
+<P>a<sup> 2</sup></p>
+<P><u> used to underline the words</u></p>
+</Body>
+</Html>
