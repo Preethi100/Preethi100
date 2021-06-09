@@ -1,0 +1,27 @@
+public class employee
+{
+int empno,empsal;
+String empname,empaddress;
+public void input()
+{
+Scanner ob=new Scanner(System.in);
+System.out.println("enter empno,empname,address,empsal);
+Empno=ob.nextInt();
+Empname=ob.next();
+Empaddress=ob.next();
+Empsal=ob.nextInt();
+}
+public void display()
+{
+System.out.println("employee no  is"+Empno);
+System.out.println("employee name is"+Empname);
+System.out.println("employee address is"+Empaddress);
+System.out.println("employee salary is"+Empsal);
+}
+public static void main(String[] args) 
+{
+Employee obj=new employee();
+obj.input();
+obj.display();
+}
+}
